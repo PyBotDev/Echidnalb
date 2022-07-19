@@ -119,5 +119,5 @@ greeting:
     #   {opponent} to insert opponent's name
     #   {me} to insert bot's name
     # Any other words in curly braces will be removed.
-    hello: "Hi! I'm {me}. Good luck! Type !help for a list of commands I can respond to." # Message to send to chat at the start of a game
-    goodbye: "Good game!" # Message to send to chat at the end of a game
+    hello: "Hi! I'm {me}, The best bot in Lichess. Good luck! Type !help for a list of commands I can respond to. Follow me and me a help!" # Message to send to chat at the start of a game
+    goodbye: "Good game, Well played!" # Message to send to chat at the end of a game
